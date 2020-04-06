@@ -10,7 +10,7 @@ title = "Rafael"
 
 # banner section (from here on is for assembly theme)
 [params.banner]
-  title = "This is Assembly Template"
+  title = "Site de Teste para CoFlow"
   byline = "A free, CSS template ported over to a Hugo Theme."
 
 # 
