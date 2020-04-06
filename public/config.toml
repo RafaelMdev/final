@@ -13,7 +13,8 @@ title = "Assembly"
   title = "This is Assembly Template"
   byline = "A free, CSS template ported over to a Hugo Theme."
 
-[params.actions] # CTAs
+# 
+  [params.actions] # CTAs
   enable = true
   register = "CTA Now!"
 
