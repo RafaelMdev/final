@@ -10,4 +10,5 @@ fields:
     max: 
   label: contato
 pages:
+- public/content/*/contato-1.md
 - public/content/*/contato.md
