@@ -1,7 +1,7 @@
 theme = "hugo-assembly"
 baseURL = "https://example.co"
 languageCode = "en-US"
-title = "Assembly"
+title = "Rafael"
 
 # Metadata
 [params]
