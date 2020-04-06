@@ -1,14 +1,7 @@
 ---
 label: Template
 hide_body: false
-fields:
-- name: contato
-  type: list
-  config:
-    use_select: false
-    min: 
-    max: 
-  label: contato
+fields: []
 pages:
 - public/content/*/contato-1.md
 - public/content/*/contato.md
