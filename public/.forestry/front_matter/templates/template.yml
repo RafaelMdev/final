@@ -9,3 +9,5 @@ fields:
     min: 
     max: 
   label: contato
+pages:
+- public/content/*/contato.md
