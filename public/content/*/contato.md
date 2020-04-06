@@ -1,5 +1,5 @@
 +++
 contato = ["Contato"]
-draft = true
+draft = false
 
 +++
